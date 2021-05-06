@@ -5,8 +5,13 @@
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Expr/Expr01.iml" filepath="$PROJECT_DIR$/Expr/Expr01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inherit/Inheritance.iml" filepath="$PROJECT_DIR$/Inherit/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectTest01/ProjectTest01.iml" filepath="$PROJECT_DIR$/ProjectTest01/ProjectTest01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04/day04.iml" filepath="$PROJECT_DIR$/day04/day04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13/day13.iml" filepath="$PROJECT_DIR$/day13/day13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14/day14.iml" filepath="$PROJECT_DIR$/day14/day14.iml" />
       <module fileurl="file://$PROJECT_DIR$/project03.iml" filepath="$PROJECT_DIR$/project03.iml" />
     </modules>
   </component>
