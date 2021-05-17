@@ -57,14 +57,29 @@ public class StaticTest {
         c2.name = "林丹";
         c2.age = 28;
         c1.nation = "CHN";
+        Chinese.nation ="中国";
         System.out.println("c2.nation = " + c2.nation);
+        c1.eat();
+        Chinese.show();
     }
 }
 
 
 class  Chinese{
+    public static  double rate;
+
+    public static double getRate() {
+        return rate;
+    }
+
     String name;
     int age;
     static String nation;
+    public void eat(){
+        System.out.println("中国人吃中餐");
+    }
+    public static void show(){
+        System.out.println("我是一个中国人");
+    }
 
 }
