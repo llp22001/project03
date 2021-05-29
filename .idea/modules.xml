@@ -9,13 +9,34 @@
       <module fileurl="file://$PROJECT_DIR$/Method/Method.iml" filepath="$PROJECT_DIR$/Method/Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProjectTest01/ProjectTest01.iml" filepath="$PROJECT_DIR$/ProjectTest01/ProjectTest01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01/day01.iml" filepath="$PROJECT_DIR$/day01/day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03/day03.iml" filepath="$PROJECT_DIR$/day03/day03.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04/day04.iml" filepath="$PROJECT_DIR$/day04/day04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day13/day13.iml" filepath="$PROJECT_DIR$/day13/day13.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day14/day14.iml" filepath="$PROJECT_DIR$/day14/day14.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day15/day15.iml" filepath="$PROJECT_DIR$/day15/day15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05/day05.iml" filepath="$PROJECT_DIR$/day05/day05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06_Eclipse的使用与数组/day06_Eclipse的使用与数组.iml" filepath="$PROJECT_DIR$/day06_Eclipse的使用与数组/day06_Eclipse的使用与数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07数组/day07数组.iml" filepath="$PROJECT_DIR$/day07数组/day07数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08面向对象上/day08面向对象上.iml" filepath="$PROJECT_DIR$/day08面向对象上/day08面向对象上.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09面向对象上/day09面向对象上.iml" filepath="$PROJECT_DIR$/day09面向对象上/day09面向对象上.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10面向对象上/day10面向对象上.iml" filepath="$PROJECT_DIR$/day10面向对象上/day10面向对象上.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11面向对象中/day11面向对象中.iml" filepath="$PROJECT_DIR$/day11面向对象中/day11面向对象中.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12_面向对象(中)/day12_面向对象(中).iml" filepath="$PROJECT_DIR$/day12_面向对象(中)/day12_面向对象(中).iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13_面向对象(中)/day13_面向对象(中).iml" filepath="$PROJECT_DIR$/day13_面向对象(中)/day13_面向对象(中).iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14_面向对象(下)/day14_面向对象(下).iml" filepath="$PROJECT_DIR$/day14_面向对象(下)/day14_面向对象(下).iml" />
+      <module fileurl="file://$PROJECT_DIR$/day15_面向对象(下)/day15_面向对象(下).iml" filepath="$PROJECT_DIR$/day15_面向对象(下)/day15_面向对象(下).iml" />
       <module fileurl="file://$PROJECT_DIR$/day16异常/day16异常.iml" filepath="$PROJECT_DIR$/day16异常/day16异常.iml" />
       <module fileurl="file://$PROJECT_DIR$/day17项目/day17项目.iml" filepath="$PROJECT_DIR$/day17项目/day17项目.iml" />
       <module fileurl="file://$PROJECT_DIR$/day18-19多线程/day18-19多线程.iml" filepath="$PROJECT_DIR$/day18-19多线程/day18-19多线程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day20_常用类/day20_常用类.iml" filepath="$PROJECT_DIR$/day20_常用类/day20_常用类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21_常用类/day21_常用类.iml" filepath="$PROJECT_DIR$/day21_常用类/day21_常用类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day22_枚举类与注解/day22_枚举类与注解.iml" filepath="$PROJECT_DIR$/day22_枚举类与注解/day22_枚举类与注解.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day23_集合/day23_集合.iml" filepath="$PROJECT_DIR$/day23_集合/day23_集合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day24_集合/day24_集合.iml" filepath="$PROJECT_DIR$/day24_集合/day24_集合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day25_泛型与File/day25_泛型与File.iml" filepath="$PROJECT_DIR$/day25_泛型与File/day25_泛型与File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day26_IO流/day26_IO流.iml" filepath="$PROJECT_DIR$/day26_IO流/day26_IO流.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day27_IO流与网络编程/day27_IO流与网络编程.iml" filepath="$PROJECT_DIR$/day27_IO流与网络编程/day27_IO流与网络编程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day28_反射/day28_反射.iml" filepath="$PROJECT_DIR$/day28_反射/day28_反射.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day29_动态代理与Java8新特性/day29_动态代理与Java8新特性.iml" filepath="$PROJECT_DIR$/day29_动态代理与Java8新特性/day29_动态代理与Java8新特性.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day30_Java9&amp;10&amp;11新特性/day30_Java9&amp;10&amp;11新特性.iml" filepath="$PROJECT_DIR$/day30_Java9&amp;10&amp;11新特性/day30_Java9&amp;10&amp;11新特性.iml" />
       <module fileurl="file://$PROJECT_DIR$/project03.iml" filepath="$PROJECT_DIR$/project03.iml" />
     </modules>
   </component>
