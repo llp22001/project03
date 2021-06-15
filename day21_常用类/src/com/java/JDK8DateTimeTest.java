@@ -4,6 +4,7 @@ import org.junit.Test;
 
 import java.time.*;
 import java.time.format.DateTimeFormatter;
+import java.time.format.FormatStyle;
 import java.time.temporal.TemporalAccessor;
 import java.util.Date;
 
@@ -110,5 +111,26 @@ LocalDate、LocalTime、LocalDateTime 的使用
         //        方式二：
 //        本地化相关的格式。如：ofLocalizedDateTime()
 //        FormatStyle.LONG / FormatStyle.MEDIUM / FormatStyle.SHORT :适用于LocalDateTime
+        DateTimeFormatter formatter1 = DateTimeFormatter.ofLocalizedDateTime(FormatStyle.MEDIUM);
+        String str2 = formatter1.format(localDateTime);
+        System.out.println("str2 = " + str2);
+
+        //      本地化相关的格式。如：ofLocalizedDate()
+//      FormatStyle.FULL / FormatStyle.LONG / FormatStyle.MEDIUM / FormatStyle.SHORT : 适用于LocalDate
+        DateTimeFormatter formatter2 = DateTimeFormatter.ofLocalizedDate(FormatStyle.FULL);
+        String str3 = formatter2.format(LocalDate.now());
+        System.out.println("str3 = " + str3);
+
+        //       重点： 方式三：自定义的格式。如：ofPattern(“yyyy-MM-dd hh:mm:ss”)
+        DateTimeFormatter formatter3 = DateTimeFormatter.ofPattern("yyyy-MM-dd hh:mm:ss");
+        String str4 = formatter3.format(localDateTime);
+
+        System.out.println("str4 = " + str4);
+
+        //解析
+        TemporalAccessor accessor = formatter3.parse(str4);
+
+        System.out.println("accessor = " + accessor);
     }
+
 }

@@ -51,11 +51,17 @@ public class TeamService {
         Programmer p = (Programmer) e;
 //        if (p.getStatus().getNAME().equals("BUSY")){
 //        减少空指针风险
-        if ("BUSY".equals(p.getStatus().getNAME())) {
-            throw new TeamException("该员工已在其他开发团队中");
-        }
-        if ("VOCATION".equals(p.getStatus().getNAME())){
-            throw new TeamException("该员工正在休假");
+//        if ("BUSY".equals(p.getStatus().getNAME())) {
+//            throw new TeamException("该员工已在其他开发团队中");
+//        }
+//        if ("VOCATION".equals(p.getStatus().getNAME())){
+//            throw new TeamException("该员工正在休假");
+//        }
+        switch (p.getStatus()) {
+            case BUSY:
+                throw  new TeamException("该员工已在其他开发团队中");
+            case VOCATION:
+                throw new TeamException("该员工正在休假");
         }
         //获取team 成员中已有的程序员，架构是，设计师个数
         int numOfArch=0, numOfDes = 0, numOfPro = 0;
